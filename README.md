@@ -21,3 +21,10 @@ HTML – Structure
 CSS – Styling
 
 JavaScript – Logic & interactivity
+
+📂 Project Structure
+Finance-Tracker/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
