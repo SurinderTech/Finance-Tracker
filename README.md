@@ -28,3 +28,13 @@ Finance-Tracker/
 │── style.css
 │── script.js
 │── README.md
+
+<h1>📈 Learning Outcomes</h1>
+
+DOM manipulation
+
+Event handling in JavaScript
+
+Basic financial logic
+
+Clean UI structuring
