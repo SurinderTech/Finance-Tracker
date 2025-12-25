@@ -37,5 +37,5 @@ Event handling in JavaScript
 
 Basic financial logic
 
-Clean UI structuring
+Clean UI structuring<br>
 upgrading day by day this project
