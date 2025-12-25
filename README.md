@@ -38,3 +38,4 @@ Event handling in JavaScript
 Basic financial logic
 
 Clean UI structuring
+upgrading day by day this project
