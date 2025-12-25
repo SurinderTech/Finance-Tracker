@@ -22,13 +22,14 @@ CSS – Styling
 
 JavaScript – Logic & interactivity
 
+```
 📂 Project Structure
 Finance-Tracker/
 │── index.html
 │── style.css
 │── script.js
 │── README.md
-
+```
 <h1>📈 Learning Outcomes</h1>
 
 DOM manipulation
