@@ -42,3 +42,7 @@ Clean UI structuring<br>
 
 
 upgrading day by day this project
+
+Will make it full fintech project 
+ I will add real time expenses show 
+ 
