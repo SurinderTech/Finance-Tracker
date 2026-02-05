@@ -44,8 +44,10 @@ Clean UI structuring<br>
 upgrading day by day this project
 
 Will make it full fintech project <br>
-"still in progress"
 
 
- I will add real time expenses and more features
+
+ I will add real time expenses and more features 
+
+ "still in progress"
  
