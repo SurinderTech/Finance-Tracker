@@ -47,7 +47,7 @@ Will make it full fintech project <br>
 
 
 
- I will add real time expenses and more features 
+ I will add real time expenses and more features
 
  # 👨‍💻"still in progress"
  
